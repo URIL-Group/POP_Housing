@@ -27,5 +27,4 @@ off a few times to wear down the supports.
 Note: PreForm may give you an error that the main body .stl has an integrity issue,
 this is a superficial problem and will not impact the housing. If you have questions
 about this feel free to contact me.
-Email: bmotsenbocker@uri.edu
 
