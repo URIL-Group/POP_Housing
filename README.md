@@ -1,7 +1,7 @@
 # POP_Housing
 
 Photopolymer Open-Source Pressure (POP) Housing
-Designed by Breanna Motsenbocker at the University of Rhode Island
+designed by Breanna Motsenbocker at the University of Rhode Island
 Undersea Robotics and Imaging Lab
 
 POP is a compact pressure housing that has been successfully tested to 4000 psi
